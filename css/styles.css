@@ -1,0 +1,59 @@
+body{
+    margin:0; 
+    text-align: center;
+    font-family: 'Ma Shan Zheng', cursive;
+    background-color: aqua;
+}
+h1{
+    color:blueviolet;
+    font-size: 70px;
+    margin: 150px auto 0 auto;  
+    font-family: 'Righteous', cursive;
+}
+h2{
+    color:blue;
+    font-size:30px;
+    font-family: 'Righteous', cursive;
+}
+.top-cloud{
+    position: absolute;
+    right:40% ;
+    top:4%
+}
+.pro{
+    text-decoration: underline;
+}
+.bottom-cloud{
+    position: absolute;
+    left:25% ;
+    top:40%
+
+}
+.middle-container{
+    margin : top 100px;;
+}
+.profile-img{
+    border-radius: 50%;
+}
+.intro{
+    width: 50%;
+    margin: auto;
+}
+hr{
+    width: 5%;
+    border-style:none none dotted ;
+    border-width: 8px;
+    margin: 100px auto;
+    color: brown;
+}
+.skills-row{
+    margin: 100px auto 100px auto;
+    width:50%;
+    text-align: left;
+}
+.code-img{
+    width: 25%;
+    height: 25%;
+    margin-right: 30px;
+    float: left;
+}
